@@ -7,4 +7,6 @@ button usage and the @ReferToButtonUsage annotation to refer to the button usage
 
 ## Usage
 - Run the `unzipApk.sh` script to unzip the APK. The script requires the APK name as an argument.
-- Run the jar file (or from source) and the output will be stored in the `doc-out` folder.
+- If running from binary, run the `./bin/FTC-DocParser` shell script (or the `FTC-DocParser.bat` batch script on Windows) to generate the docs
+- If running from source, run the `./gradlew run` command to generate the docs
+- The output is stored in the doc-out folder

@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.xaverianteamrobotics"
-version = "1.0-SNAPSHOT"
+version = "1.0"
 
 repositories {
     mavenCentral()
@@ -25,7 +25,10 @@ kotlin {
 
 application {
     mainClass.set("MainKt")
-
+    applicationDistribution.from("./") {
+        include("doc-style.css")
+        include("unzipAPK.sh")
+    }
 }
 
 tasks.jar {
