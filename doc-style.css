@@ -1,0 +1,27 @@
+body {
+    font-family: monospace;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #dddddd;
+    background-color: #111111;
+}
+
+a {
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    padding-left: 20px;
+}
+
+p {
+    padding-left: 20px;
+}

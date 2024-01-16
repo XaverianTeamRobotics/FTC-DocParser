@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FTC-DocParser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FTC_DocParser_jar</output-path>
+    <root id="archive" name="FTC-DocParser.jar">
+      <element id="module-output" name="FTC-DocParser.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.6.3/234f250d1608684c4436d72214e7530f23cb8a03/junit-jupiter-engine-5.6.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit5/1.9.21/65746a66412497c739a8f8a4f55b74543c180d39/kotlin-test-junit5-1.9.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/markdown-jvm/0.5.0/b50301f94c4e4139b8b5dd982c5b89a90a51abf8/markdown-jvm-0.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test/1.9.21/2e03c9f094744905ef267dad17bfdddf4f2095d9/kotlin-test-1.9.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.0/fc9dff4bb36d627bdc553de77e1f17efd790876c/apiguardian-api-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.21/17ee3e873d439566c7d8354403b5f3d9744c4c9c/kotlin-stdlib-1.9.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.6.3/7ce526bbb9e6202e8a30140a50bfff644fddd10e/junit-platform-commons-1.6.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.9.0/e000bd084353d84c9e888f6fb341dc1f5b79d948/kotlin-stdlib-jdk8-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.6.3/a926b9bbc7fe67c5795ee1f00cc1b618b313e5ce/junit-platform-engine-1.6.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.6.3/73ea5e2b7f112616315d3e2325a98e6e93c2813a/junit-jupiter-api-5.6.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.9.0/f320478990d05e0cfaadd74f9619fd6027adbf37/kotlin-stdlib-jdk7-1.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
