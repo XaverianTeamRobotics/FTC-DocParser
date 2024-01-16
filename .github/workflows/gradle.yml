@@ -35,5 +35,5 @@ jobs:
     - name: Upload results
       uses: actions/upload-artifact@v4.1.0
       with:
-        name: FTC-DocParser.zip
+        name: FTC-DocParser
         path: build/distributions/FTC-DocParser-1.0.zip
